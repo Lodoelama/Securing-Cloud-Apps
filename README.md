@@ -7,9 +7,9 @@
 
 ## Web Application
 
-<img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/517f4c7c-1a26-4c1e-8e19-49c8d7967a89" alt="cyberblog1" width="300">
-<img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/fb779eaa-d1da-420e-8fb6-c8ba4b0342da" alt="cyberblog2" width="300">
-<img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/358f35ad-9b03-4457-8907-dd13c42744ae" alt="cyberblog3" width="300">
+<img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/517f4c7c-1a26-4c1e-8e19-49c8d7967a89" alt="cyberblog1" width="550">
+<img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/fb779eaa-d1da-420e-8fb6-c8ba4b0342da" alt="cyberblog2" width="550">
+<img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/358f35ad-9b03-4457-8907-dd13c42744ae" alt="cyberblog3" width="550">
 
 ### General Questions
 
