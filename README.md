@@ -1,6 +1,6 @@
 # Securing Cloud Apps 
 
-## Your Web Application
+## Web Application
 
 ![cyberblog1](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/517f4c7c-1a26-4c1e-8e19-49c8d7967a89)
 ![cyberblog2](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/fb779eaa-d1da-420e-8fb6-c8ba4b0342da)
