@@ -2,18 +2,10 @@
 
 ## Your Web Application
 
-Enter the URL for the web application that you created:
-
-[https://lodoesecurityblog.azurewebsites.net/](https://lodoesecurityblog.azurewebsites.net/)
-
-### Screenshots
-
 ![cyberblog1](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/517f4c7c-1a26-4c1e-8e19-49c8d7967a89)
 ![cyberblog2](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/fb779eaa-d1da-420e-8fb6-c8ba4b0342da)
 ![cyberblog3](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/358f35ad-9b03-4457-8907-dd13c42744ae)
 
-
-## Day 1 Questions
 
 ### General Questions
 
@@ -49,7 +41,6 @@ Enter the URL for the web application that you created:
 
    Inside the assets directory, there are two subdirectories: `css` and `images`. The `css` directory is responsible for the visual aspect of the webpage, while the `images` directory holds image files used in the web app.
 
-## Day 2 Questions
 
 ### Cloud Questions
 
@@ -91,8 +82,6 @@ Enter the URL for the web application that you created:
    SSL 3.0 is not provided due to security concerns and vulnerabilities associated with this protocol.
 
 
-## Day 3 Questions
-
 ### Cloud Security Questions
 
 1. What are the similarities and differences between Azure Web Application Gateway and Azure Front Door?
@@ -119,19 +108,10 @@ Consider the rule that you selected. Could your website (as it is currently desi
 
 Since my website doesn't have any input fields and database interactions, the possibility of it being impacted by the SQL injection vulnerability is low, even if Azure Front Door is not enabled.
 
-### Day 3 Activities
+### Azure Front Door and Custom WAF rules
 
 ![azurefrontdoor](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/82e54d4a-b37b-4652-a5b2-faa4bcc5ac6e)
 ![customrule](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/e23676cc-12af-4a83-a277-b436c34261df)
 
 
-## Disclaimer on Future Charges
-
-Please type "YES" after one of the following options:
-
-- Maintaining website after project conclusion: I am aware that I am responsible for any charges that I incur by maintaining my website. I have reviewed the guidance for minimizing costs and monitoring Azure charges.
-
-- Disabling website after project conclusion: I am aware that I am responsible for deleting all of my project resources as soon as I have gathered all of my web application screenshots and completed this document.
-
-YES
 
