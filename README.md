@@ -1,11 +1,15 @@
-# Securing Cloud Apps 
+# Securing Cloud Apps
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Web Application
 
 ![cyberblog1](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/517f4c7c-1a26-4c1e-8e19-49c8d7967a89)
 ![cyberblog2](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/fb779eaa-d1da-420e-8fb6-c8ba4b0342da)
 ![cyberblog3](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/358f35ad-9b03-4457-8907-dd13c42744ae)
-
 
 ### General Questions
 
@@ -40,7 +44,6 @@
 2. Inside the `/var/www/html` directory, there was another directory called assets. Explain what was inside that directory.
 
    Inside the assets directory, there are two subdirectories: `css` and `images`. The `css` directory is responsible for the visual aspect of the webpage, while the `images` directory holds image files used in the web app.
-
 
 ### Cloud Questions
 
@@ -81,7 +84,6 @@
 
    SSL 3.0 is not provided due to security concerns and vulnerabilities associated with this protocol.
 
-
 ### Cloud Security Questions
 
 1. What are the similarities and differences between Azure Web Application Gateway and Azure Front Door?
@@ -112,6 +114,3 @@ Since my website doesn't have any input fields and database interactions, the po
 
 ![azurefrontdoor](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/82e54d4a-b37b-4652-a5b2-faa4bcc5ac6e)
 ![customrule](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/e23676cc-12af-4a83-a277-b436c34261df)
-
-
-
