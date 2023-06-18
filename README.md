@@ -1,17 +1,20 @@
-# Securing Cloud Apps
+# Securing Cloud Apps 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## Web Application
+## Project Instructions
 
+Welcome to the Securing Cloud Apps project! In this project, you will build, secure, and protect a cloud application that hosts your own cyber blog. Utilizing technologies such as HTML, CSS, PHP, and Azure, you will gain hands-on experience in cloud computing, networking, web development, cryptography, and network security.
+
+## Web Application
 <img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/517f4c7c-1a26-4c1e-8e19-49c8d7967a89" alt="cyberblog1" width="550">
 <img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/fb779eaa-d1da-420e-8fb6-c8ba4b0342da" alt="cyberblog2" width="550">
 <img src="https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/358f35ad-9b03-4457-8907-dd13c42744ae" alt="cyberblog3" width="550">
 
-### General Questions
+## General Questions
 
 1. What option did you select for your domain (Azure free domain, GoDaddy domain)?
    
@@ -21,7 +24,7 @@
 
    lodoesecurityblog.azurewebsites.net
 
-### Networking Questions
+## Networking Questions
 
 1. What is the IP address of your webpage?
 
@@ -35,7 +38,7 @@
 
    The DNS lookup for this domain did not return a traditional NS record. However, the response indicates ns1-06.azure-dns.com as the primary name server.
 
-### Web Development Questions
+## Web Development Questions
 
 1. When creating your web app, you selected a runtime stack. What was it? Does it work on the front end or the back end?
 
@@ -45,7 +48,7 @@
 
    Inside the assets directory, there are two subdirectories: `css` and `images`. The `css` directory is responsible for the visual aspect of the webpage, while the `images` directory holds image files used in the web app.
 
-### Cloud Questions
+## Cloud Questions
 
 1. What is a cloud tenant?
 
@@ -61,7 +64,7 @@
    - Secrets: Store sensitive information like passwords or API keys.
    - Certificates: Used for secure communication and authentication.
 
-### Cryptography Questions
+## Cryptography Questions
 
 1. What are the advantages of a self-signed certificate?
 
@@ -84,7 +87,7 @@
 
    SSL 3.0 is not provided due to security concerns and vulnerabilities associated with this protocol.
 
-### Cloud Security Questions
+## Cloud Security Questions
 
 1. What are the similarities and differences between Azure Web Application Gateway and Azure Front Door?
 
@@ -104,13 +107,13 @@
    - Rule: SQL Injection
    - Definition: Designed to protect web applications from SQL injection attacks. It analyzes incoming requests and detects suspicious SQL code patterns in input parameters to prevent unauthorized access, data breaches, and data manipulation.
 
-### Hypothetical Scenario
+## Hypothetical Scenario
 
 Consider the rule that you selected. Could your website (as it is currently designed) be impacted by this vulnerability if Front Door wasn't enabled? Why or why not?
 
 Since my website doesn't have any input fields and database interactions, the possibility of it being impacted by the SQL injection vulnerability is low, even if Azure Front Door is not enabled.
 
-### Azure Front Door and Custom WAF rules
+## Azure Front Door and Custom WAF rules
 
 ![azurefrontdoor](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/82e54d4a-b37b-4652-a5b2-faa4bcc5ac6e)
 ![customrule](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/e23676cc-12af-4a83-a277-b436c34261df)
