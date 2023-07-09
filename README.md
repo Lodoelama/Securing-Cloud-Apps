@@ -117,3 +117,5 @@ Since my website doesn't have any input fields and database interactions, the po
 
 ![azurefrontdoor](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/82e54d4a-b37b-4652-a5b2-faa4bcc5ac6e)
 ![customrule](https://github.com/Lodoelama/Securing-Cloud-Apps/assets/125059539/e23676cc-12af-4a83-a277-b436c34261df)
+
+Checkout the [Full Report](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit?usp=sharing)
